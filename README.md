@@ -2,7 +2,7 @@
 
 ![Imagem do projeto](./public/demonstracao.png)
 
-### [Visitar Projeto](https://clima-luiz2k.vercel.app/)
+### [Visitar Projeto](https://luiz2k.github.io/clima/)
 
 ---
 
